@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pe6ko13
+- 👋 Hi, I’m Petar Belchev
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on new_projects
